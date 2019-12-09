@@ -1,6 +1,6 @@
 /*
  * Adrian Statescu
- * Implement a Queue based on Linked List;
+ * Implement a Stack based on Linked List;
  * MIT License
  */
 #include <iostream>
