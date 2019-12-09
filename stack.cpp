@@ -1,3 +1,6 @@
+/*
+ *  Stack Class Implemented as an Array.
+ */
 #include <iostream>
 #include <fstream>
 #define STACK_MAX 100
